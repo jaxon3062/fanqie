@@ -1,0 +1,11 @@
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\fanqie kauE2.exe.config
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\fanqie kauE2.exe
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\fanqie kauE2.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\code2text.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\code2text.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\code2text.dll.config
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\obj\Debug\fanqie kauE2.csprojResolveAssemblyReference.cache
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\obj\Debug\fanqie kauE2.exe
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\obj\Debug\fanqie kauE2.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\text2code.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie kauE2\bin\Debug\text2code.pdb
