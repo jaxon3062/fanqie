@@ -1,0 +1,6 @@
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\bin\Release\code2text.dll.config
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\bin\Release\code2text.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\bin\Release\code2text.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\obj\Release\code2text.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\obj\Release\code2text.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\code2text\obj\Release\code2text.csprojResolveAssemblyReference.cache

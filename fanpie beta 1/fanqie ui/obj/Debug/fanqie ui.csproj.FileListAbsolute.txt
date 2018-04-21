@@ -1,0 +1,12 @@
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie ui.csprojResolveAssemblyReference.cache
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie_ui.Form1.resources
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie_ui.Properties.Resources.resources
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie ui.csproj.GenerateResource.Cache
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\fanqie ui.exe.config
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\fanqie ui.exe
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\fanqie ui.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie ui.exe
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\obj\Debug\fanqie ui.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\code2text.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\code2text.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\fanqie ui\bin\Debug\code2text.dll.config

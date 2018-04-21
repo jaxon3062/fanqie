@@ -1,0 +1,5 @@
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\text2code\bin\Debug\text2code.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\text2code\bin\Debug\text2code.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\text2code\obj\Debug\text2code.dll
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\text2code\obj\Debug\text2code.pdb
+E:\project\科展\fanqie\fanqie alpha\fanpie alpha\text2code\obj\Debug\text2code.csprojResolveAssemblyReference.cache
