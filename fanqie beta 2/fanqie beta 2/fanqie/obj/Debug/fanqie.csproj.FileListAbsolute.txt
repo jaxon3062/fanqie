@@ -1,0 +1,11 @@
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\fanqie.exe.config
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\fanqie.exe
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\fanqie.pdb
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\algor.dll
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\algor.pdb
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\bin\Debug\algor.dll.config
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\obj\Debug\fanqie.csprojAssemblyReference.cache
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\obj\Debug\fanqie.csproj.CoreCompileInputs.cache
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\obj\Debug\fanqie.csproj.CopyComplete
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\obj\Debug\fanqie.exe
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\fanqie\obj\Debug\fanqie.pdb

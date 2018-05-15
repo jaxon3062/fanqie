@@ -1,0 +1,7 @@
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\obj\Debug\algor.csprojAssemblyReference.cache
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\obj\Debug\algor.csproj.CoreCompileInputs.cache
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\bin\Debug\algor.dll.config
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\bin\Debug\algor.dll
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\bin\Debug\algor.pdb
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\obj\Debug\algor.dll
+E:\project\科展\fanqie\main program\fanqie beta 2\fanqie beta 2\algor\obj\Debug\algor.pdb
