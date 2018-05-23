@@ -42,8 +42,13 @@ namespace algor
             {
                 if (dic.isinShen(arr[i]) || dic.isinMid(arr[i]))
                 {
-                    result = result + arr[i].ToString();
+                    result = string.Concat(result, arr[i].ToString());
                 }
+                else
+                {
+                    break;
+                }
+
             }
 
             return result;
@@ -53,16 +58,22 @@ namespace algor
         {
             var arr = b.ToCharArray();
             Dict dic = new Dict();
-            string result = "";
+            string result = "0";
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = arr.Length - 1; i >= 0 ; i--)
             {
                 if (dic.isinYun(arr[i]) || dic.isinTone(arr[i]))
                 {
-                    result = result + arr[i].ToString();
+                    result = result.Insert(0, arr[i].ToString());
+                }
+                else if (result.Length != 0)
+                {
+                    
+                    break;
                 }
             }
 
+            result = result.Remove(result.Length - 1);
             return result;
         }
 
