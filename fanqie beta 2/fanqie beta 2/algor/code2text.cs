@@ -16,20 +16,24 @@ namespace algor
 
         public override string Translate(int n)
         {
-            string returnStr = "";
-            List<string> returnVal = split2List(codestr);
+            string returnStr = codestr;
+            
 
             for (int i = 0; i < n; i++)
-            {                
+            {
+                List<string> returnVal = split2List(returnStr);
+                returnStr = "";
+
                 returnVal = Transfer(returnVal);   //transfer 2 word into a code
                 returnVal = Cut(returnVal);
 
+                for (int j = 0; j < returnVal.Count; j++)
+                {
+                    returnStr = string.Concat(returnStr, returnVal[j]);
+                }
             }
             
-            for (int i = 0; i < returnVal.Count; i++)
-            {
-                returnStr += returnVal[i];
-            }
+            
 
             return returnStr;
         }
@@ -38,7 +42,7 @@ namespace algor
         {
             List<string> output = new List<string>();
             string temp = "";
-            int index = 0;
+            //int index = 0;
 
             for (int i = 0; i < input.Count; i++)
             {
@@ -46,11 +50,11 @@ namespace algor
 
                 if (vocabDB.Select("code = '" + temp + "'", sortStr).Length == 0)
                 {
-                    temp.Remove(index, input[i].Length);
+                    temp = temp.Remove(temp.Length - input[i].Length, input[i].Length);
                     output.Add(temp);
 
                     temp = "";
-                    index = 0;
+                    //index = 0;
 
                     i -= 1;
                 }
@@ -105,9 +109,9 @@ namespace algor
             {
                 if (code.StartsWith(dr[i][3].ToString()))
                 {
-                    output += dr[i][3].ToString();
-                    output += " ";
-                    output += code.Remove(0, dr[i][3].ToString().Length);
+                    output = string.Concat(output, dr[i][3].ToString(), " ", code.Remove(0, dr[i][3].ToString().Length));
+                    //output += " ";
+                    //output += ;
 
                     break;
                 }

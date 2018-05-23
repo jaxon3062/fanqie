@@ -8,10 +8,10 @@ namespace algor
 {
     public class Dict
     {
-        private char[] shen;
-        private char[] yun;
-        private char[] mid;
-        private char[] tone;
+        internal static char[] shen;
+        internal static char[] yun;
+        internal static char[] mid;
+        internal static char[] tone;
 
         public Dict()
         {
